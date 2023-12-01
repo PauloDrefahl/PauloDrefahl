@@ -1,6 +1,6 @@
 # Hey there, I'm Paulo Drefahl 👋
 
-I'm a Software Engineering student at Florida Gulf Coast University, originally from São Paulo, Brazil. I'm passionate about coding and have experience in a wide range of technologies. Here's a bit about me:
+I'm a Software Engineering student at Florida Gulf Coast University. I'm passionate about coding and have experience in a wide range of technologies. Here's a bit about me:
 
 - 🔭 I'm currently working on my senior project/internship with the United States Department of Homeland Security, where I'm applying my skills to make a web scraping software to help with investigations.
 - 👨‍🏫 I previously served as a professor's assistant for computer science courses, where I helped students learn and grow in their coding journeys.
