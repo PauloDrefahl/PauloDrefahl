@@ -1,4 +1,4 @@
-# Hey there, I'm Paulo Drefahl 👋
+# Hey there, I'm Paulo 👋
 
 I'm a Software Engineering student and researcher at Florida Gulf Coast University. I'm passionate about software development and project management. Here's a bit about me:
 
