@@ -14,6 +14,7 @@ I'm a Software Engineering student and researcher at Florida Gulf Coast Universi
 ## 📫 Contact Me
 You can reach out to me through the following platforms:
 
+- All Resources: https://linktr.ee/paulodrefahl
 - LinkedIn: https://www.linkedin.com/in/paulo-drefahl-300591205/
 - Email: pdrefahl@fgcu.edu
 - Leetcode: https://leetcode.com/u/PauloDrefahl/
