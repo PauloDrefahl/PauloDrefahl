@@ -11,7 +11,7 @@ I'm a Software Engineering student and researcher at Florida Gulf Coast Universi
 -📚 Passionate about AI and NLP projects using TensorFlow, PyTorch, and Scikit-learn  
 -🔬 Published two research papers and presented at conferences across the USA  
 
-## 📫 Contact Me
+## 📫 Contact Me:
 You can reach out to me through the following platforms:
 
 - All Resources: https://linktr.ee/paulodrefahl
@@ -20,7 +20,7 @@ You can reach out to me through the following platforms:
 - Leetcode: https://leetcode.com/u/PauloDrefahl/
 - ORCID (research ID): https://orcid.org/0009-0000-8685-0644
 
-## 💬 Let's Connect
+## 💬 Let's Connect:
 
 Feel free to connect with me, ask questions, or collaborate on exciting projects. I'm always eager to work with other developers and share knowledge.
 Thanks for stopping by! 😄
