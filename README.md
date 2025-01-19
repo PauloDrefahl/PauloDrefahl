@@ -7,8 +7,7 @@ I'm a Software Engineering student and researcher at Florida Gulf Coast Universi
 💻 Experienced in multiple programming languages including Python, C++, JavaScript, HTML/CSS, C#, Java, etc.  
 🌐 Comfortable with web frameworks like React, Angular, and Express.  
 📦 Proficient in databases such as MySQL, SQLite, and MongoDB.  
-☁️ Knowledgeable in cloud services like Amazon AWS, GCP, and Azure.  
-📚 Passionate about AI and NLP projects using TensorFlow, PyTorch, and Scikit-learn.  
+☁️ Knowledgeable in cloud services like Amazon AWS, GCP, and Azure.   
 🔬 Published two research papers and presented at conferences across the USA.  
 
 ## 📫 Contact Me:
