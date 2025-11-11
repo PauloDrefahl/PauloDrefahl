@@ -1,8 +1,8 @@
 # Hey there, I'm Paulo 👋
 
-I'm a Software Engineering Honors graduate, SE Intern at Kingland and former AI researcher at Florida Gulf Coast University. I'm passionate about software development and project management. Here's a bit about me:
+I'm a Software Engineering Honors graduate, I currenlty work as an Associate Engineer at Lumen, and I was formally a SE Intern at Kingland and AI researcher at Florida Gulf Coast University. I'm passionate about software development and project management. Here's a bit about me:
 
-🔭 I worked on my senior project/internship with the United States Department of Homeland Security.  
+🔭 I worked on my FGCU senior project with the United States Department of Homeland Security.  
 👨‍🏫 I Served as a Professor Assistant for computer science classes at FGCU.  
 💻 Experienced in multiple programming languages including C++, Golang, TypeScript, Python, C#, Java, etc.  
 🌐 Comfortable with web frameworks like React, Angular, and Express.  
